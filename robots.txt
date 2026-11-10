@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dkoam.github.io/sitemap.xml
